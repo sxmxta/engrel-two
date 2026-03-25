@@ -1,7 +1,7 @@
-module github.com/energye/engtwo
+module github.com/energye/engrel-two
 
 go 1.20
 
 require (
-	github.com/energye/engone v1.0.0
+	github.com/energye/engrel-one v1.0.0
 )
